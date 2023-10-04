@@ -9,10 +9,15 @@ A React.js website for searching and browsing cars.
 - **Responsive Design:** Desktop-only screens, not responsive for mobile devices.
 - **Pagination URL:** URLs change dynamically based on the page number.
 
+## Technologies Used
+- React.js
+- React Router DOM
+- Swiperjs
+- Fontawesome
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/toufiqulislamtanmoy/car-search-website.git
