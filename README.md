@@ -30,4 +30,3 @@ A React.js website for searching and browsing cars.
    ```bash
    npm run dev
 
-
