@@ -1,13 +1,16 @@
-# Car Search Website
+# Hotel Listing Website
 
-A React.js website for searching and browsing cars.
+This project is a hotel listing website built with React.js for desktop-only screens. It allows users to explore properties in different cities, view property details, and navigate to individual property pages. The website is designed to be user-friendly and intuitive, providing a seamless experience for users looking for accommodations.
 
 ## Features
 
-- **Search:** Enter a car name in the search bar to search for specific cars.
-- **Pagination:** Browse through the paginated list of cars. Click on pagination numbers, next, or previous buttons to navigate through pages.
-- **Responsive Design:** Desktop-only screens, not responsive for mobile devices.
-- **Pagination URL:** URLs change dynamically based on the page number.
+- **City Tabs:** Users can select a city from the tabs displayed on the top. Only 4 tabs are visible at a time, and the first tab is active by default. Clicking on any other tab sets it as active, displaying properties specific to that city.
+
+- **Property Cards:** Properties are listed in cards, with 3 cards displayed in each row. The cards provide essential information about each property, including images, hotel name, price, and location.
+
+- **Show More:** Users can click on the "Show More" button to load 3 new properties under the active tab. This feature allows users to explore more options without overwhelming them with a large number of properties at once.
+
+- **Property Details:** Clicking on a property card navigates the user to the property page (`/property/:id`), where they can view detailed information about the selected property. The same card design is used on the property page for consistency.
 
 ## Technologies Used
 - React.js
@@ -15,12 +18,12 @@ A React.js website for searching and browsing cars.
 - Swiperjs
 - Fontawesome
 
-## Installation
+## How to Use
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/toufiqulislamtanmoy/car-search-website.git
+   https://github.com/toufiqulislamtanmoy/propertyDealer_job_task2.git
 2. Install dependencies:
 
    ```bash
@@ -29,4 +32,3 @@ A React.js website for searching and browsing cars.
 
    ```bash
    npm run dev
-
