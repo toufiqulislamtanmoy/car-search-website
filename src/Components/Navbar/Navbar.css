@@ -1,0 +1,11 @@
+.search-icon {
+    background-image: url('/src/assets/svg/magnifying-glass-solid.svg');
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: right center;
+  }
+  
+  .search-icon:focus {
+    background-image: none;
+  }
+  

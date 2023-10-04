@@ -1,0 +1,272 @@
+[
+    {
+        "carId": "1",
+        "carName": "Toyota Corolla",
+        "carBrand": "Toyota",
+        "seatingCapacity": 5,
+        "fuelEconomy": 5.6,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 350,
+        "year": 2023,
+        "carImages": [
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220401051803_Toyota%20GR%20Corolla.jpg&w=700&q=90&c=1",
+          "https://www.motorbiscuit.com/wp-content/uploads/2022/12/Front-angle-view-of-white-2023-Toyota-Corolla-cheapest-new-Toyota-and-one-of-worlds-best-selling-cars.jpg?w=1200"
+        ]
+      },
+      {
+        "carId": "2",
+        "carName": "Honda Civic",
+        "carBrand": "Honda",
+        "seatingCapacity": 5,
+        "fuelEconomy": 5.9,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 360,
+        "year": 2023,
+        "carImages": [
+          "https://imgd.aeplcdn.com/0x0/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148155.jpeg?q=80",
+          "https://www.ccarprice.com/products/Civic_EX.jpg"
+        ]
+      },
+      {
+        "carId": "3",
+        "carName": "Hyundai Elantra",
+        "carBrand": "Hyundai",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.1,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 370,
+        "year": 2023,
+        "carImages": [
+          "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Elantra/7888/1636975889286/front-left-side-47.jpg?impolicy=resize&imwidth=420"
+        ]
+      },
+      {
+        "carId": "4",
+        "carName": "Kia Forte",
+        "carBrand": "Kia",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.2,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 380,
+        "year": 2023,
+        "carImages": [
+          "https://www.cars.com/i/large/in/v2/stock_photos/e531da01-0f94-4301-b409-c1bc953cc9c3/096efb7c-d8fb-46de-a8f5-6ca056a21cea.png"
+        ]
+      },
+      {
+        "carId": "5",
+        "carName": "Mazda3",
+        "carBrand": "Mazda",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.3,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 390,
+        "year": 2023,
+        "carImages": [
+          "https://www.cnet.com/a/img/resize/0af8b05cf7687035aad4e3347cd6139c515614a2/hub/2021/12/01/07182515-b454-4e67-bf58-ad16e497585b/2022-mazda3-2-5-s-carbon-edition-hatchback.jpg?auto=webp&width=1920"
+        ]
+      },
+      {
+        "carId": "6",
+        "carName": "Ford Focus",
+        "carBrand": "Ford",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.0,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 400,
+        "year": 2023,
+        "carImages": [
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      },
+      {
+        "carId": "7",
+        "carName": "Chevrolet Cruze",
+        "carBrand": "Chevrolet",
+        "seatingCapacity": 5,
+        "fuelEconomy": 5.8,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 410,
+        "year": 2023,
+        "carImages": [
+          "https://1.bp.blogspot.com/-lYIasr3iXB8/VOdPT1bBhMI/AAAAAAAABdM/AxmrjQZpn3Q/w1200-h630-p-k-no-nu/1.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      },
+      {
+        "carId": "8",
+        "carName": "Nissan Sentra",
+        "carBrand": "Nissan",
+        "seatingCapacity": 5,
+        "fuelEconomy": 5.7,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 420,
+        "year": 2023,
+        "carImages": [
+          "https://www.interior-news.com/wp-content/uploads/2020/10/23095340_web1_201022-TodaysDrive-NissanSentra2020_1.jpg",
+          "https://www.interior-news.com/wp-content/uploads/2020/10/23095340_web1_201022-TodaysDrive-NissanSentra2020_1.jpg"
+        ]
+      },
+      {
+        "carId": "9",
+        "carName": "Volkswagen Jetta",
+        "carBrand": "Volkswagen",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.4,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 430,
+        "year": 2023,
+        "carImages": [
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      },
+      {
+        "carId": "10",
+        "carName": "Subaru Impreza",
+        "carBrand": "Subaru",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.5,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 440,
+        "year": 2023,
+        "carImages": [
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      },
+      {
+        "carId": "11",
+        "carName": "Toyota Corolla",
+        "carBrand": "Toyota",
+        "seatingCapacity": 5,
+        "fuelEconomy": 5.6,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 350,
+        "year": 2023,
+        "carImages": [
+          "https://www.motorbiscuit.com/wp-content/uploads/2022/12/Front-angle-view-of-white-2023-Toyota-Corolla-cheapest-new-Toyota-and-one-of-worlds-best-selling-cars.jpg?w=1200"
+        ]
+      },
+      {
+        "carId": "12",
+        "carName": "Honda Civic",
+        "carBrand": "Honda",
+        "seatingCapacity": 5,
+        "fuelEconomy": 5.9,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 360,
+        "year": 2023,
+        "carImages": [
+          "https://images.hindustantimes.com/auto/img/2022/07/21/1600x900/Honda_Civic_Type_R_front_1658400873335_1658401151735_1658401151735.jpeg"
+        ]
+      },
+      {
+        "carId": "13",
+        "carName": "Hyundai Elantra",
+        "carBrand": "Hyundai",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.1,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 370,
+        "year": 2023,
+        "carImages": [
+          "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/41138/elantra-exterior-left-front-three-quarter.jpeg?q=80"
+        ]
+      },
+      {
+        "carId": "14",
+        "carName": "Kia Forte",
+        "carBrand": "Kia",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.2,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 380,
+        "year": 2023,
+        "carImages": [
+          "https://img.sm360.ca/images/article/gus-revenberg-automotive-family/95538//17927_2022_forte1640204674188.jpg",
+          "https://images.mktw.net/im-313560/horizontal?width=700&height=393",
+          "https://di-uploads-pod17.dealerinspire.com/miamilakesautomall/uploads/2023/01/miami-lakes-automall-2019-kia-forte-1024x573-1.png",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      },
+      {
+        "carId": "15",
+        "carName": "Mazda3",
+        "carBrand": "Mazda",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.3,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 390,
+        "year": 2023,
+        "carImages": [
+          "https://www.cnet.com/a/img/resize/0af8b05cf7687035aad4e3347cd6139c515614a2/hub/2021/12/01/07182515-b454-4e67-bf58-ad16e497585b/2022-mazda3-2-5-s-carbon-edition-hatchback.jpg?auto=webp&width=1920"
+        ]
+      },
+      {
+        "carId": "16",
+        "carName": "Audi A3",
+        "carBrand": "Audi",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.8,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 480,
+        "year": 2023,
+        "carImages": [
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      },
+      {
+        "carId": "17",
+        "carName": "Mercedes-Benz C-Class",
+        "carBrand": "Mercedes-Benz",
+        "seatingCapacity": 5,
+        "fuelEconomy": 7.0,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 490,
+        "year": 2023,
+        "carImages": [
+          "https://www.cnet.com/a/img/resize/0af8b05cf7687035aad4e3347cd6139c515614a2/hub/2021/12/01/07182515-b454-4e67-bf58-ad16e497585b/2022-mazda3-2-5-s-carbon-edition-hatchback.jpg?auto=webp&width=1920"
+        ]
+      },
+      {
+        "carId": "18",
+        "carName": "BMW 3 Series",
+        "carBrand": "BMW",
+        "seatingCapacity": 5,
+        "fuelEconomy": 6.5,
+        "fuelType": "Gasoline",
+        "transmission": "Automatic",
+        "monthlyRent": 470,
+        "year": 2023,
+        "carImages": [
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg",
+          "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20221111012720_BMW_XM_002.jpg"
+        ]
+      }
+  ]
+  
